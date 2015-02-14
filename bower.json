@@ -10,7 +10,7 @@
     "package.json"
   ],
   "dependencies": {
-    "typeahead.js": "~0.10.1"
+    "typeahead.js": "https://github.com/ujiro99/typeahead.js.git#master"
   },
   "description": "An Angular.js wrapper around the Twitter Typeahead library."
 }
